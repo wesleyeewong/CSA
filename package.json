@@ -1,0 +1,23 @@
+{
+  "name": "CSA",
+  "version": "1.0.0",
+  "description": "New CSA redesign",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wesleyeewong/CSA.git"
+  },
+  "author": "Wesley Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleyeewong/CSA/issues"
+  },
+  "homepage": "https://github.com/wesleyeewong/CSA",
+  "dependencies": {
+	"express":"~4.2.0"
+  }
+}
