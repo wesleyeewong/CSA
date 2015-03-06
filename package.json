@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/wesleyeewong/CSA",
   "dependencies": {
-	"express":"~4.2.0"
+	"express":"~4.2.0",
+	"ejs":"*",
+	"mongodb":"*"
   }
 }
